@@ -1,0 +1,6 @@
+framework module Pods_TweetFlyers {
+  umbrella header "Pods-TweetFlyers-umbrella.h"
+
+  export *
+  module * { export * }
+}
